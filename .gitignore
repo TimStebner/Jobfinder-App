@@ -1,0 +1,19 @@
+# Android / Gradle
+*.iml
+.gradle/
+/local.properties
+.idea/
+.DS_Store
+**/build/
+captures/
+.externalNativeBuild/
+.cxx/
+*.jks
+*.keystore
+keystore.properties
+.env
+.env.*
+*.pem
+*.p12
+*.key
+graphify-out/
